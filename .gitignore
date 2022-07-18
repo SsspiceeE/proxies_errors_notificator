@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+__pycache__/
+venv/
+.env
+proxies-errors-notificator-3e5bfb8d0de5.json
+alembic.ini
+migrations/
+db/
