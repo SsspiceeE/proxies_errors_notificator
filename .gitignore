@@ -6,4 +6,3 @@ venv/
 proxies-errors-notificator-3e5bfb8d0de5.json
 alembic.ini
 migrations/
-db/
